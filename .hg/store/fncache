@@ -1,0 +1,11 @@
+data/src/main/webapp/index.html.i
+data/src/test/java/com/cmr/scratch/gcs/MockHttpServletResponse.java.i
+data/src/main/webapp/WEB-INF/appengine-web.xml.i
+data/.project.i
+data/src/main/webapp/META-INF/MANIFEST.MF.i
+data/pom.xml.i
+data/.classpath.i
+data/src/test/java/com/cmr/scratch/gcs/HelloAppEngineTest.java.i
+data/src/main/java/com/cmr/scratch/gcs/HelloAppEngine.java.i
+data/src/main/webapp/WEB-INF/web.xml.i
+data/src/main/webapp/favicon.ico.i
